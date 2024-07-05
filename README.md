@@ -10,5 +10,5 @@ make
 需要启动nginx(cd /usr/local/nginx/sbin ./nginx)、redis-server
 
 cd ../bin
-./ChatServer ip port
-./ChatServer ip port（使用了nginx，通用8000，或者指定6000/6002...）
+./ChatServer ip port（使用了nginx，6000/6002...）
+./Chatclient ip port（使用了nginx，通用8000，或者指定6000/6002...）
