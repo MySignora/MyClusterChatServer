@@ -1,0 +1,10 @@
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/CMakeFiles/rebuild_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/CMakeFiles/edit_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/CMakeFiles/rebuild_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/CMakeFiles/edit_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/server/CMakeFiles/ChatServer.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/server/CMakeFiles/edit_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/client/CMakeFiles/rebuild_cache.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/client/CMakeFiles/ChatClient.dir
+/home/linux1/Desktop/exp/chat/MyClusterChatServer/build/src/client/CMakeFiles/edit_cache.dir
